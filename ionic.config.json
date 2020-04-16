@@ -1,0 +1,7 @@
+{
+  "name": "imca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
