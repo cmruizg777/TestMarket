@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "imbamarket": {
+      "hosting": {
+        "app": [
+          "imbamarket"
+        ]
+      }
+    }
+  }
+}
